@@ -12,7 +12,8 @@ dist
 dist-ssr
 *.local
 myenv
-
+Uploads
+main.py
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
